@@ -337,7 +337,7 @@
 		<link>http://localhost/tx-demos/i-amaze/logo-trans/</link>
 		<pubDate>Fri, 02 Mar 2018 22:47:18 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/logo-trans.png</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/logo-trans.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -353,7 +353,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/logo-trans.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/logo-trans.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/03/logo-trans.png]]></wp:meta_value>
@@ -368,7 +368,7 @@
 		<link>http://localhost/tx-demos/i-amaze/logo/</link>
 		<pubDate>Fri, 02 Mar 2018 22:47:43 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/logo.png</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/logo.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -384,7 +384,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/logo.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/logo.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/03/logo.png]]></wp:meta_value>
@@ -399,7 +399,7 @@
 		<link>http://localhost/tx-demos/i-amaze/team1/</link>
 		<pubDate>Sun, 25 Mar 2018 19:44:21 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/team1.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/team1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -415,7 +415,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/team1.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/team1.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/03/team1.jpg]]></wp:meta_value>
@@ -430,7 +430,7 @@
 		<link>http://localhost/tx-demos/i-amaze/team2/</link>
 		<pubDate>Sun, 25 Mar 2018 19:44:23 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/team2.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/team2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -446,7 +446,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/team2.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/team2.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/03/team2.jpg]]></wp:meta_value>
@@ -461,7 +461,7 @@
 		<link>http://localhost/tx-demos/i-amaze/team3/</link>
 		<pubDate>Sun, 25 Mar 2018 19:44:25 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/team3.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/team3.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -477,7 +477,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/team3.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/team3.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/03/team3.jpg]]></wp:meta_value>
@@ -492,7 +492,7 @@
 		<link>http://localhost/tx-demos/i-amaze/team4/</link>
 		<pubDate>Sun, 25 Mar 2018 19:44:28 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/team4.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/team4.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -508,7 +508,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/team4.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/team4.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/03/team4.jpg]]></wp:meta_value>
@@ -523,7 +523,7 @@
 		<link>http://localhost/tx-demos/i-amaze/portfolio1/</link>
 		<pubDate>Sun, 25 Mar 2018 19:44:39 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/portfolio1.png</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/portfolio1.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -539,7 +539,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/portfolio1.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/portfolio1.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/03/portfolio1.png]]></wp:meta_value>
@@ -554,7 +554,7 @@
 		<link>http://localhost/tx-demos/i-amaze/portfolio2/</link>
 		<pubDate>Sun, 25 Mar 2018 19:44:41 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/portfolio2.png</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/portfolio2.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -570,7 +570,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/portfolio2.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/portfolio2.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/03/portfolio2.png]]></wp:meta_value>
@@ -585,7 +585,7 @@
 		<link>http://localhost/tx-demos/i-amaze/portfolio3/</link>
 		<pubDate>Sun, 25 Mar 2018 19:44:44 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/portfolio3.png</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/portfolio3.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -601,7 +601,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/portfolio3.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/portfolio3.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/03/portfolio3.png]]></wp:meta_value>
@@ -616,7 +616,7 @@
 		<link>http://localhost/tx-demos/i-amaze/portfolio4/</link>
 		<pubDate>Sun, 25 Mar 2018 19:44:46 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/portfolio4.png</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/portfolio4.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -632,7 +632,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/portfolio4.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/portfolio4.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/03/portfolio4.png]]></wp:meta_value>
@@ -647,7 +647,7 @@
 		<link>http://localhost/tx-demos/i-amaze/portfolio5/</link>
 		<pubDate>Sun, 25 Mar 2018 19:44:49 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/portfolio5.png</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/portfolio5.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -663,7 +663,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/portfolio5.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/portfolio5.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/03/portfolio5.png]]></wp:meta_value>
@@ -678,7 +678,7 @@
 		<link>http://localhost/tx-demos/i-amaze/portfolio6/</link>
 		<pubDate>Sun, 25 Mar 2018 19:44:51 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/portfolio6.png</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/portfolio6.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -694,7 +694,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/portfolio6.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/portfolio6.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/03/portfolio6.png]]></wp:meta_value>
@@ -709,7 +709,7 @@
 		<link>http://localhost/tx-demos/i-amaze/portfolio7/</link>
 		<pubDate>Sun, 25 Mar 2018 19:44:53 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/portfolio7.png</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/portfolio7.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -725,7 +725,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/portfolio7.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/portfolio7.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/03/portfolio7.png]]></wp:meta_value>
@@ -740,7 +740,7 @@
 		<link>http://localhost/tx-demos/i-amaze/portfolio8/</link>
 		<pubDate>Sun, 25 Mar 2018 19:44:56 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/portfolio8.png</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/portfolio8.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -756,7 +756,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/portfolio8.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/portfolio8.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/03/portfolio8.png]]></wp:meta_value>
@@ -771,7 +771,7 @@
 		<link>http://localhost/tx-demos/i-amaze/laptop-1209008/</link>
 		<pubDate>Sun, 25 Mar 2018 19:45:10 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/laptop-1209008.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/laptop-1209008.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -787,7 +787,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/laptop-1209008.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/laptop-1209008.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/03/laptop-1209008.jpg]]></wp:meta_value>
@@ -802,7 +802,7 @@
 		<link>http://localhost/tx-demos/i-amaze/babe-2972221_1920/</link>
 		<pubDate>Sun, 25 Mar 2018 21:25:15 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/babe-2972221_1920.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/babe-2972221_1920.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -818,7 +818,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/babe-2972221_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/babe-2972221_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/03/babe-2972221_1920.jpg]]></wp:meta_value>
@@ -833,7 +833,7 @@
 		<link>http://localhost/tx-demos/i-amaze/beautiful-girl-2003650_1920/</link>
 		<pubDate>Sun, 25 Mar 2018 21:25:34 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/beautiful-girl-2003650_1920.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/beautiful-girl-2003650_1920.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -849,7 +849,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/beautiful-girl-2003650_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/beautiful-girl-2003650_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/03/beautiful-girl-2003650_1920.jpg]]></wp:meta_value>
@@ -864,7 +864,7 @@
 		<link>http://localhost/tx-demos/i-amaze/bikini-1807461_1920-1/</link>
 		<pubDate>Sun, 25 Mar 2018 21:25:56 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/bikini-1807461_1920-1.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/bikini-1807461_1920-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -880,7 +880,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/bikini-1807461_1920-1.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/bikini-1807461_1920-1.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/03/bikini-1807461_1920-1.jpg]]></wp:meta_value>
@@ -895,7 +895,7 @@
 		<link>http://localhost/tx-demos/i-amaze/blue-69762/</link>
 		<pubDate>Sun, 25 Mar 2018 21:26:02 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/blue-69762.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/blue-69762.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -911,7 +911,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/blue-69762.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/blue-69762.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/03/blue-69762.jpg]]></wp:meta_value>
@@ -926,7 +926,7 @@
 		<link>http://localhost/tx-demos/i-amaze/chart-2785976_1920/</link>
 		<pubDate>Sun, 25 Mar 2018 21:26:22 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/chart-2785976_1920.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/chart-2785976_1920.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -942,7 +942,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/chart-2785976_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/chart-2785976_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/03/chart-2785976_1920.jpg]]></wp:meta_value>
@@ -957,7 +957,7 @@
 		<link>http://localhost/tx-demos/i-amaze/coffee-171653_1920/</link>
 		<pubDate>Sun, 25 Mar 2018 21:26:28 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/coffee-171653_1920.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/coffee-171653_1920.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -973,7 +973,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/coffee-171653_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/coffee-171653_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/03/coffee-171653_1920.jpg]]></wp:meta_value>
@@ -988,7 +988,7 @@
 		<link>http://localhost/tx-demos/i-amaze/engagement-1718244_1920/</link>
 		<pubDate>Sun, 25 Mar 2018 21:26:34 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/engagement-1718244_1920.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/engagement-1718244_1920.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1004,7 +1004,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/engagement-1718244_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/engagement-1718244_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/03/engagement-1718244_1920.jpg]]></wp:meta_value>
@@ -1019,7 +1019,7 @@
 		<link>http://localhost/tx-demos/i-amaze/freelancer-763730_1920/</link>
 		<pubDate>Sun, 25 Mar 2018 21:26:41 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/freelancer-763730_1920.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/freelancer-763730_1920.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1035,7 +1035,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/freelancer-763730_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/freelancer-763730_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/03/freelancer-763730_1920.jpg]]></wp:meta_value>
@@ -1050,7 +1050,7 @@
 		<link>http://localhost/tx-demos/i-amaze/teenager-1822438_1920/</link>
 		<pubDate>Sun, 25 Mar 2018 21:27:05 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/teenager-1822438_1920.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/teenager-1822438_1920.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1066,7 +1066,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/teenager-1822438_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/teenager-1822438_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/03/teenager-1822438_1920.jpg]]></wp:meta_value>
@@ -1081,7 +1081,7 @@
 		<link>http://localhost/tx-demos/i-amaze/water-747618_1920/</link>
 		<pubDate>Sun, 25 Mar 2018 21:27:25 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/water-747618_1920.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/water-747618_1920.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1097,7 +1097,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/water-747618_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/water-747618_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/03/water-747618_1920.jpg]]></wp:meta_value>
@@ -1112,7 +1112,7 @@
 		<link>http://localhost/tx-demos/i-amaze/girl-511881_1920/</link>
 		<pubDate>Sun, 25 Mar 2018 21:53:07 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/girl-511881_1920.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/girl-511881_1920.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1128,7 +1128,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/girl-511881_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/girl-511881_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/03/girl-511881_1920.jpg]]></wp:meta_value>
@@ -1143,7 +1143,7 @@
 		<link>http://localhost/tx-demos/i-amaze/mother-84628_1920/</link>
 		<pubDate>Sun, 25 Mar 2018 21:54:11 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/mother-84628_1920.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/mother-84628_1920.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1159,7 +1159,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/mother-84628_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/mother-84628_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/03/mother-84628_1920.jpg]]></wp:meta_value>
@@ -1174,7 +1174,7 @@
 		<link>http://localhost/tx-demos/i-amaze/woman-1822437/</link>
 		<pubDate>Sun, 25 Mar 2018 21:54:51 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/woman-1822437.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/woman-1822437.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1190,7 +1190,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/woman-1822437.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/woman-1822437.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/03/woman-1822437.jpg]]></wp:meta_value>
@@ -1205,7 +1205,7 @@
 		<link>http://localhost/tx-demos/i-amaze/i-amaze-logo-green-dark/</link>
 		<pubDate>Sun, 25 Mar 2018 22:03:35 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/i-amaze-logo-green-dark.png</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/i-amaze-logo-green-dark.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1221,7 +1221,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/i-amaze-logo-green-dark.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/i-amaze-logo-green-dark.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/03/i-amaze-logo-green-dark.png]]></wp:meta_value>
@@ -1236,7 +1236,7 @@
 		<link>http://localhost/tx-demos/i-amaze/i-amaze-logo-green-light/</link>
 		<pubDate>Sun, 25 Mar 2018 22:03:37 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/i-amaze-logo-green-light.png</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/i-amaze-logo-green-light.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1252,7 +1252,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/i-amaze-logo-green-light.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/i-amaze-logo-green-light.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/03/i-amaze-logo-green-light.png]]></wp:meta_value>
@@ -1267,7 +1267,7 @@
 		<link>http://localhost/tx-demos/i-amaze/i-amaze-about-1/</link>
 		<pubDate>Mon, 26 Mar 2018 14:01:53 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/i-amaze-about-1.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/i-amaze-about-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1283,7 +1283,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/i-amaze-about-1.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/i-amaze-about-1.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/03/i-amaze-about-1.jpg]]></wp:meta_value>
@@ -1298,7 +1298,7 @@
 		<link>http://localhost/tx-demos/i-amaze/vication4-jpg/</link>
 		<pubDate>Thu, 29 Mar 2018 13:57:01 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/vication4.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/vication4.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1314,7 +1314,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/vication4.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/vication4.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/03/vication4.jpg]]></wp:meta_value>
@@ -1333,7 +1333,7 @@
 		<link>http://localhost/tx-demos/i-amaze/darkside-png/</link>
 		<pubDate>Thu, 29 Mar 2018 13:57:02 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/darkside.png</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/darkside.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1349,7 +1349,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/darkside.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/darkside.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/03/darkside.png]]></wp:meta_value>
@@ -1368,7 +1368,7 @@
 		<link>http://localhost/tx-demos/i-amaze/zusman-png/</link>
 		<pubDate>Thu, 29 Mar 2018 13:57:03 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/zusman.png</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/zusman.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1384,7 +1384,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/zusman.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/zusman.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/03/zusman.png]]></wp:meta_value>
@@ -1403,7 +1403,7 @@
 		<link>http://localhost/tx-demos/i-amaze/armond-png/</link>
 		<pubDate>Thu, 29 Mar 2018 13:57:04 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/ARMOND.png</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/ARMOND.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1419,7 +1419,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/ARMOND.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/ARMOND.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/03/ARMOND.png]]></wp:meta_value>
@@ -1438,7 +1438,7 @@
 		<link>http://localhost/tx-demos/i-amaze/larozse-png/</link>
 		<pubDate>Thu, 29 Mar 2018 13:57:05 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/larozse.png</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/larozse.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1454,7 +1454,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/larozse.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/larozse.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/03/larozse.png]]></wp:meta_value>
@@ -1473,7 +1473,7 @@
 		<link>http://localhost/tx-demos/i-amaze/ecocode-png/</link>
 		<pubDate>Thu, 29 Mar 2018 13:57:06 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/ECOCODE.png</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/ECOCODE.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1489,7 +1489,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/ECOCODE.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/ECOCODE.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/03/ECOCODE.png]]></wp:meta_value>
@@ -1508,7 +1508,7 @@
 		<link>http://localhost/tx-demos/i-amaze/boleir-png/</link>
 		<pubDate>Thu, 29 Mar 2018 13:57:07 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/BOLEIR.png</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/BOLEIR.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1524,7 +1524,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/BOLEIR.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/BOLEIR.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/03/BOLEIR.png]]></wp:meta_value>
@@ -1543,7 +1543,7 @@
 		<link>http://localhost/tx-demos/i-amaze/geo-png/</link>
 		<pubDate>Thu, 29 Mar 2018 13:57:09 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/GEO.png</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/GEO.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1559,7 +1559,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/GEO.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/GEO.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/03/GEO.png]]></wp:meta_value>
@@ -1578,7 +1578,7 @@
 		<link>http://localhost/tx-demos/i-amaze/x-venox_-png-2/</link>
 		<pubDate>Thu, 29 Mar 2018 13:57:11 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/x.venox_-1.png</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/x.venox_-1.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1594,7 +1594,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/x.venox_-1.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/x.venox_-1.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/03/x.venox_-1.png]]></wp:meta_value>
@@ -1613,7 +1613,7 @@
 		<link>http://localhost/tx-demos/i-amaze/fifthflour-png/</link>
 		<pubDate>Thu, 29 Mar 2018 13:57:13 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/FIFTHFLOUR.png</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/FIFTHFLOUR.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1629,7 +1629,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/FIFTHFLOUR.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/FIFTHFLOUR.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/03/FIFTHFLOUR.png]]></wp:meta_value>
@@ -1648,7 +1648,7 @@
 		<link>http://localhost/tx-demos/i-amaze/sample-page/responsive-3/</link>
 		<pubDate>Fri, 30 Mar 2018 07:14:53 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/responsive-3.png</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/responsive-3.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1664,7 +1664,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/responsive-3.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/responsive-3.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/03/responsive-3.png]]></wp:meta_value>
@@ -1679,7 +1679,7 @@
 		<link>http://localhost/tx-demos/i-amaze/?attachment_id=283</link>
 		<pubDate>Sun, 01 Apr 2018 18:48:32 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/04/vneck-tee-2.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/04/vneck-tee-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1695,7 +1695,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/04/vneck-tee-2.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/04/vneck-tee-2.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/vneck-tee-2.jpg]]></wp:meta_value>
@@ -1714,7 +1714,7 @@
 		<link>http://localhost/tx-demos/i-amaze/?attachment_id=284</link>
 		<pubDate>Sun, 01 Apr 2018 18:48:36 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/04/vnech-tee-green-1.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/04/vnech-tee-green-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1730,7 +1730,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/04/vnech-tee-green-1.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/04/vnech-tee-green-1.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/vnech-tee-green-1.jpg]]></wp:meta_value>
@@ -1749,7 +1749,7 @@
 		<link>http://localhost/tx-demos/i-amaze/?attachment_id=285</link>
 		<pubDate>Sun, 01 Apr 2018 18:48:42 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/04/vnech-tee-blue-1.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/04/vnech-tee-blue-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1765,7 +1765,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/04/vnech-tee-blue-1.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/04/vnech-tee-blue-1.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/vnech-tee-blue-1.jpg]]></wp:meta_value>
@@ -1784,7 +1784,7 @@
 		<link>http://localhost/tx-demos/i-amaze/?attachment_id=286</link>
 		<pubDate>Sun, 01 Apr 2018 18:48:57 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/04/hoodie-2.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/04/hoodie-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1800,7 +1800,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/04/hoodie-2.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/04/hoodie-2.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/hoodie-2.jpg]]></wp:meta_value>
@@ -1819,7 +1819,7 @@
 		<link>http://localhost/tx-demos/i-amaze/?attachment_id=287</link>
 		<pubDate>Sun, 01 Apr 2018 18:49:05 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/04/hoodie-blue-1.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/04/hoodie-blue-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1835,7 +1835,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/04/hoodie-blue-1.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/04/hoodie-blue-1.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/hoodie-blue-1.jpg]]></wp:meta_value>
@@ -1854,7 +1854,7 @@
 		<link>http://localhost/tx-demos/i-amaze/?attachment_id=288</link>
 		<pubDate>Sun, 01 Apr 2018 18:49:10 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/04/hoodie-green-1.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/04/hoodie-green-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1870,7 +1870,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/04/hoodie-green-1.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/04/hoodie-green-1.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/hoodie-green-1.jpg]]></wp:meta_value>
@@ -1889,7 +1889,7 @@
 		<link>http://localhost/tx-demos/i-amaze/?attachment_id=289</link>
 		<pubDate>Sun, 01 Apr 2018 18:49:13 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/04/hoodie-with-logo-2.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/04/hoodie-with-logo-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1905,7 +1905,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/04/hoodie-with-logo-2.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/04/hoodie-with-logo-2.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/hoodie-with-logo-2.jpg]]></wp:meta_value>
@@ -1924,7 +1924,7 @@
 		<link>http://localhost/tx-demos/i-amaze/?attachment_id=290</link>
 		<pubDate>Sun, 01 Apr 2018 18:49:28 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/04/tshirt-2.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/04/tshirt-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1940,7 +1940,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/04/tshirt-2.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/04/tshirt-2.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/tshirt-2.jpg]]></wp:meta_value>
@@ -1959,7 +1959,7 @@
 		<link>http://localhost/tx-demos/i-amaze/?attachment_id=291</link>
 		<pubDate>Sun, 01 Apr 2018 18:49:36 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/04/beanie-2.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/04/beanie-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1975,7 +1975,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/04/beanie-2.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/04/beanie-2.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/beanie-2.jpg]]></wp:meta_value>
@@ -1994,7 +1994,7 @@
 		<link>http://localhost/tx-demos/i-amaze/?attachment_id=292</link>
 		<pubDate>Sun, 01 Apr 2018 18:49:41 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/04/belt-2.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/04/belt-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2010,7 +2010,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/04/belt-2.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/04/belt-2.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/belt-2.jpg]]></wp:meta_value>
@@ -2029,7 +2029,7 @@
 		<link>http://localhost/tx-demos/i-amaze/?attachment_id=293</link>
 		<pubDate>Sun, 01 Apr 2018 18:49:54 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/04/cap-2.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/04/cap-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2045,7 +2045,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/04/cap-2.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/04/cap-2.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/cap-2.jpg]]></wp:meta_value>
@@ -2064,7 +2064,7 @@
 		<link>http://localhost/tx-demos/i-amaze/?attachment_id=294</link>
 		<pubDate>Sun, 01 Apr 2018 18:49:59 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/04/sunglasses-2.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/04/sunglasses-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2080,7 +2080,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/04/sunglasses-2.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/04/sunglasses-2.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/sunglasses-2.jpg]]></wp:meta_value>
@@ -2099,7 +2099,7 @@
 		<link>http://localhost/tx-demos/i-amaze/?attachment_id=295</link>
 		<pubDate>Sun, 01 Apr 2018 18:50:04 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/04/hoodie-with-pocket-2.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/04/hoodie-with-pocket-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2115,7 +2115,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/04/hoodie-with-pocket-2.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/04/hoodie-with-pocket-2.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/hoodie-with-pocket-2.jpg]]></wp:meta_value>
@@ -2134,7 +2134,7 @@
 		<link>http://localhost/tx-demos/i-amaze/?attachment_id=296</link>
 		<pubDate>Sun, 01 Apr 2018 18:50:16 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/04/hoodie-with-zipper-2.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/04/hoodie-with-zipper-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2150,7 +2150,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/04/hoodie-with-zipper-2.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/04/hoodie-with-zipper-2.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/hoodie-with-zipper-2.jpg]]></wp:meta_value>
@@ -2169,7 +2169,7 @@
 		<link>http://localhost/tx-demos/i-amaze/?attachment_id=297</link>
 		<pubDate>Sun, 01 Apr 2018 18:50:23 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/04/long-sleeve-tee-2.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/04/long-sleeve-tee-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2185,7 +2185,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/04/long-sleeve-tee-2.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/04/long-sleeve-tee-2.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/long-sleeve-tee-2.jpg]]></wp:meta_value>
@@ -2204,7 +2204,7 @@
 		<link>http://localhost/tx-demos/i-amaze/?attachment_id=298</link>
 		<pubDate>Sun, 01 Apr 2018 18:50:31 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/04/polo-2.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/04/polo-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2220,7 +2220,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/04/polo-2.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/04/polo-2.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/polo-2.jpg]]></wp:meta_value>
@@ -2239,7 +2239,7 @@
 		<link>http://localhost/tx-demos/i-amaze/?attachment_id=299</link>
 		<pubDate>Sun, 01 Apr 2018 18:50:42 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/04/album-1.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/04/album-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2255,7 +2255,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/04/album-1.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/04/album-1.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/album-1.jpg]]></wp:meta_value>
@@ -2274,7 +2274,7 @@
 		<link>http://localhost/tx-demos/i-amaze/?attachment_id=300</link>
 		<pubDate>Sun, 01 Apr 2018 18:50:49 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/04/single-1.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/04/single-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2290,7 +2290,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/04/single-1.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/04/single-1.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/single-1.jpg]]></wp:meta_value>
@@ -2419,7 +2419,7 @@
 		<link>http://localhost/tx-demos/i-amaze/?attachment_id=301</link>
 		<pubDate>Sun, 01 Apr 2018 18:51:10 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/04/t-shirt-with-logo-1.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/04/t-shirt-with-logo-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2435,7 +2435,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/04/t-shirt-with-logo-1.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/04/t-shirt-with-logo-1.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/t-shirt-with-logo-1.jpg]]></wp:meta_value>
@@ -2454,7 +2454,7 @@
 		<link>http://localhost/tx-demos/i-amaze/?attachment_id=302</link>
 		<pubDate>Sun, 01 Apr 2018 18:51:15 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/04/beanie-with-logo-1.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/04/beanie-with-logo-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2470,7 +2470,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/04/beanie-with-logo-1.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/04/beanie-with-logo-1.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/beanie-with-logo-1.jpg]]></wp:meta_value>
@@ -2489,7 +2489,7 @@
 		<link>http://localhost/tx-demos/i-amaze/?attachment_id=303</link>
 		<pubDate>Sun, 01 Apr 2018 18:51:21 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/04/logo-1.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/04/logo-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2505,7 +2505,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/04/logo-1.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/04/logo-1.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/logo-1.jpg]]></wp:meta_value>
@@ -2524,7 +2524,7 @@
 		<link>http://localhost/tx-demos/i-amaze/?attachment_id=304</link>
 		<pubDate>Sun, 01 Apr 2018 18:51:31 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/04/pennant-1.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/04/pennant-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2540,7 +2540,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/04/pennant-1.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/04/pennant-1.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/pennant-1.jpg]]></wp:meta_value>
@@ -2559,7 +2559,7 @@
 		<link>http://localhost/tx-demos/i-amaze/banners-small-1/</link>
 		<pubDate>Fri, 13 Apr 2018 13:32:21 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/04/banners-small-1.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/04/banners-small-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2575,7 +2575,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/04/banners-small-1.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/04/banners-small-1.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/banners-small-1.jpg]]></wp:meta_value>
@@ -2590,7 +2590,7 @@
 		<link>http://localhost/tx-demos/i-amaze/banners-small-2/</link>
 		<pubDate>Fri, 13 Apr 2018 13:32:26 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/04/banners-small-2.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/04/banners-small-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2606,7 +2606,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/04/banners-small-2.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/04/banners-small-2.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/banners-small-2.jpg]]></wp:meta_value>
@@ -2621,7 +2621,7 @@
 		<link>http://localhost/tx-demos/i-amaze/banners-small-3/</link>
 		<pubDate>Fri, 13 Apr 2018 13:32:30 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/04/banners-small-3.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/04/banners-small-3.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2637,7 +2637,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/04/banners-small-3.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/04/banners-small-3.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/banners-small-3.jpg]]></wp:meta_value>
@@ -2652,7 +2652,7 @@
 		<link>http://localhost/tx-demos/i-amaze/banners-small-5/</link>
 		<pubDate>Fri, 13 Apr 2018 13:32:35 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/04/banners-small-5.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/04/banners-small-5.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2668,7 +2668,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/04/banners-small-5.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/04/banners-small-5.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/banners-small-5.jpg]]></wp:meta_value>
@@ -2683,7 +2683,7 @@
 		<link>http://localhost/tx-demos/i-amaze/asia-1807528_1920/</link>
 		<pubDate>Sat, 14 Apr 2018 05:05:03 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/04/asia-1807528_1920.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/04/asia-1807528_1920.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2699,7 +2699,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/04/asia-1807528_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/04/asia-1807528_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/asia-1807528_1920.jpg]]></wp:meta_value>
@@ -2714,7 +2714,7 @@
 		<link>http://localhost/tx-demos/i-amaze/top-1807467-2/</link>
 		<pubDate>Sat, 14 Apr 2018 05:05:13 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/04/top-1807467.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/04/top-1807467.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2730,7 +2730,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/04/top-1807467.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/04/top-1807467.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/top-1807467.jpg]]></wp:meta_value>
@@ -2796,7 +2796,7 @@
 		<link>http://localhost/tx-demos/i-amaze/banner-ss-1/</link>
 		<pubDate>Sat, 21 Apr 2018 19:09:45 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/04/banner-ss-1.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/04/banner-ss-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2812,7 +2812,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/04/banner-ss-1.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/04/banner-ss-1.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/banner-ss-1.jpg]]></wp:meta_value>
@@ -2827,7 +2827,7 @@
 		<link>http://localhost/tx-demos/i-amaze/banner-ss-2/</link>
 		<pubDate>Sat, 21 Apr 2018 19:10:07 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/04/banner-ss-2.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/04/banner-ss-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2843,7 +2843,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/04/banner-ss-2.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/04/banner-ss-2.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/banner-ss-2.jpg]]></wp:meta_value>
@@ -2858,7 +2858,7 @@
 		<link>http://localhost/tx-demos/i-amaze/banner-ss-3/</link>
 		<pubDate>Sat, 21 Apr 2018 19:10:14 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/04/banner-ss-3.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/04/banner-ss-3.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2874,7 +2874,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/04/banner-ss-3.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/04/banner-ss-3.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/banner-ss-3.jpg]]></wp:meta_value>
@@ -2889,7 +2889,7 @@
 		<link>http://localhost/tx-demos/i-amaze/banner-ss-4/</link>
 		<pubDate>Sat, 21 Apr 2018 19:10:18 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/04/banner-ss-4.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/04/banner-ss-4.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2905,7 +2905,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/04/banner-ss-4.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/04/banner-ss-4.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/banner-ss-4.jpg]]></wp:meta_value>
@@ -2920,7 +2920,7 @@
 		<link>http://localhost/tx-demos/i-amaze/i-amaze-logo-red-black/</link>
 		<pubDate>Sat, 21 Apr 2018 20:50:50 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/04/i-amaze-logo-red-black.png</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/04/i-amaze-logo-red-black.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2936,7 +2936,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/04/i-amaze-logo-red-black.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/04/i-amaze-logo-red-black.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/i-amaze-logo-red-black.png]]></wp:meta_value>
@@ -2951,7 +2951,7 @@
 		<link>http://localhost/tx-demos/i-amaze/i-amaze-logo-red-white/</link>
 		<pubDate>Sat, 21 Apr 2018 20:50:55 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/04/i-amaze-logo-red-white.png</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/04/i-amaze-logo-red-white.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2967,7 +2967,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/04/i-amaze-logo-red-white.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/04/i-amaze-logo-red-white.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/i-amaze-logo-red-white.png]]></wp:meta_value>
@@ -2982,7 +2982,7 @@
 		<link>http://localhost/tx-demos/i-amaze/shop-slide-1/</link>
 		<pubDate>Sat, 21 Apr 2018 21:17:07 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/04/shop-slide-1.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/04/shop-slide-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2998,7 +2998,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/04/shop-slide-1.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/04/shop-slide-1.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/shop-slide-1.jpg]]></wp:meta_value>
@@ -3018,7 +3018,7 @@
 		<content:encoded><![CDATA[[txo_row]
 [txo_column size="1/3"]
 [txo_spacer size="24"]
-<a href="http://templatesnext.org/ispirit/landing/"><img src="http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/responsive-3-300x279.png" alt="i-spirit WordPress Theme" /></a>
+<a href="http://templatesnext.org/ispirit/landing/"><img src="https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/responsive-3-300x279.png" alt="i-spirit WordPress Theme" /></a>
 [/txo_column]
 [txo_column size="2/3"]
 <h2 style="font-weight: 500; margin-bottom: 16px; margin-top: 0px; font-size: 26px; text-align: left;">i-spirit, Crafted With Love And Passion</h2>
@@ -3111,7 +3111,7 @@
                 <p>Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcor.</p>
 			<h3>Our story</h3>		
 		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec venenatis velit metus. Morbi non augue non sapien ullamcorper volutpat id a libero. Curabitur maximus vel est ac suscipit. Pellentesque imperdiet ultricies interdum. </p><p>Nunc elementum porta tempus. In gravida nisi at dui eleifend lobortis. Vestibulum lobortis, leo at laoreet ornare, ante lectus commodo nisl, varius pellentesque velit justo eget purus.  Aliquam tortor massa, elementum at tellus. </p>https://www.youtube.com/watch?v=xaZdt2isEKM		
-				<figure><img src="http://localhost/tx-demos/i-amaze/wp-content/uploads/elementor/thumbs/darkside-nnxuyrm3b7qwjxqhvsbg07g98bmzgbpw3y0y3shomg.png" alt="darkside.png" /></figure><figure><img src="http://localhost/tx-demos/i-amaze/wp-content/uploads/elementor/thumbs/zusman-nnxuysjxi1s6vjp4qaq2kp7ptpico0tmg2ofl2gag8.png" alt="zusman.png" /></figure><figure><img src="http://localhost/tx-demos/i-amaze/wp-content/uploads/elementor/thumbs/ARMOND-nnxuythrovth75nrkt4p56z6f3dpvpxcs7bx2cewa0.png" alt="ARMOND.png" /></figure><figure><img src="http://localhost/tx-demos/i-amaze/wp-content/uploads/elementor/thumbs/larozse-nnxuyuflvpurirmefbjbpoqn0h933f134bzejmdi3s.png" alt="larozse.png" /></figure><figure><img src="http://localhost/tx-demos/i-amaze/wp-content/uploads/elementor/thumbs/ECOCODE-nnxuyvdg2jw1udl19txya6i3lv4gb44tggmw0wc3xk.png" alt="ECOCODE.png" /></figure><figure><img src="http://localhost/tx-demos/i-amaze/wp-content/uploads/elementor/thumbs/BOLEIR-nnxuywba9dxc5zjo4cckuo9k78ztit8jsladi6aprc.png" alt="BOLEIR.png" /></figure><figure><img src="http://localhost/tx-demos/i-amaze/wp-content/uploads/elementor/thumbs/GEO-nnxuyy6yn1zwt7gxtd5tznshe0qjy7g0gulcgq7xew.png" alt="GEO.png" /></figure><figure><img src="http://localhost/tx-demos/i-amaze/wp-content/uploads/elementor/thumbs/x.venox_-nnxuz02n0q2hgfe7idz34nbekshadlnh53wbfa552g.png" alt="x.venox_.png" /></figure><figure><img src="http://localhost/tx-demos/i-amaze/wp-content/uploads/elementor/thumbs/FIFTHFLOUR-nnxuz10h7k3rs1cucwdpp52v66cnlar7h8jswk3qw8.png" alt="FIFTHFLOUR.png" /></figure>]]></content:encoded>
+				<figure><img src="https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/elementor/thumbs/darkside-nnxuyrm3b7qwjxqhvsbg07g98bmzgbpw3y0y3shomg.png" alt="darkside.png" /></figure><figure><img src="https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/elementor/thumbs/zusman-nnxuysjxi1s6vjp4qaq2kp7ptpico0tmg2ofl2gag8.png" alt="zusman.png" /></figure><figure><img src="https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/elementor/thumbs/ARMOND-nnxuythrovth75nrkt4p56z6f3dpvpxcs7bx2cewa0.png" alt="ARMOND.png" /></figure><figure><img src="https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/elementor/thumbs/larozse-nnxuyuflvpurirmefbjbpoqn0h933f134bzejmdi3s.png" alt="larozse.png" /></figure><figure><img src="https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/elementor/thumbs/ECOCODE-nnxuyvdg2jw1udl19txya6i3lv4gb44tggmw0wc3xk.png" alt="ECOCODE.png" /></figure><figure><img src="https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/elementor/thumbs/BOLEIR-nnxuywba9dxc5zjo4cckuo9k78ztit8jsladi6aprc.png" alt="BOLEIR.png" /></figure><figure><img src="https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/elementor/thumbs/GEO-nnxuyy6yn1zwt7gxtd5tznshe0qjy7g0gulcgq7xew.png" alt="GEO.png" /></figure><figure><img src="https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/elementor/thumbs/x.venox_-nnxuz02n0q2hgfe7idz34nbekshadlnh53wbfa552g.png" alt="x.venox_.png" /></figure><figure><img src="https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/elementor/thumbs/FIFTHFLOUR-nnxuz10h7k3rs1cucwdpp52v66cnlar7h8jswk3qw8.png" alt="FIFTHFLOUR.png" /></figure>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>165</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-29 13:58:20]]></wp:post_date>
@@ -3175,7 +3175,7 @@
                     <div class="tx-fw-content" style="color: #646464">
                     	                        	<div class="about-op-left">
                                 <div class="about-op-image">
-                                    <img src="http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/i-amaze-about-1.jpg" alt="#484848">
+                                    <img src="https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/i-amaze-about-1.jpg" alt="#484848">
                                     <div class="clear"></div>
                                 </div>
                                 <div class="about-content">
@@ -3219,7 +3219,7 @@
 
     <div class="services_inner txo-section-inner">
         <div class="tx-row tx-fullwidthrow tx-fwidth" style="">
-    	        	<div class="tx-fw-inner parallax-container" style="background-image : url('http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/chart-2785976_1920.jpg');">	
+    	        	<div class="tx-fw-inner parallax-container" style="background-image : url('https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/chart-2785976_1920.jpg');">	
             <div class="tx-fw-overlay" style="background: transparent;" data-z-index="1" data-overlay="rgba(0,0,0,0.8)"> 
                 
                
@@ -3416,7 +3416,7 @@
                 <h3 class="blog-subtitle txo-subtitle" style="color: #ffffff">Latest From Our Blog Posts</h3>
             </div>
             
-            <div class="tx-blog tx-post-row tx-masonry"><div class="tx-blog-item tx-post-col-4"><div class="tx-border-box"><div class="tx-blog-img"><a href="http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/blue-69762-1024x683.jpg" class="tx-colorbox"><img src="http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/blue-69762.jpg" alt="" class="blog-image"></a><span class="tx-post-comm"><span>0</span></span></div><div class="tx-post-content"><h3 class="tx-post-title"><a href="http://localhost/tx-demos/i-amaze/2018/03/29/sed-non-consequat-risus/">Sed Non Consequat Risus</a></h3><div class="tx-category"><a href="http://localhost/tx-demos/i-amaze/category/uncategorized/" rel="category tag">Uncategorized</a></div><div class="tx-blog-content">Sed non consequat risus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum lorem ligula, dignissim ut orci vel, pellentesque pellentesque nisi. Fusce quis porttitor ipsum. Curabitur pharetra</div><div class="tx-meta"><span class="tx-author">By : <a href="http://localhost/tx-demos/i-amaze/author/demoadmin/">demoadmin</a></span><span class="tx-date"> | Mar 29, 2018</span></div></div></div></div><div class="tx-blog-item tx-post-col-4"><div class="tx-border-box"><div class="tx-blog-img"><a href="http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/engagement-1718244_1920-1024x683.jpg" class="tx-colorbox"><img src="http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/engagement-1718244_1920.jpg" alt="" class="blog-image"></a><span class="tx-post-comm"><span>0</span></span></div><div class="tx-post-content"><h3 class="tx-post-title"><a href="http://localhost/tx-demos/i-amaze/2018/03/29/nulla-non-lectus-nunc-sed/">Nulla Non Lectus Nunc Sed</a></h3><div class="tx-category"><a href="http://localhost/tx-demos/i-amaze/category/uncategorized/" rel="category tag">Uncategorized</a></div><div class="tx-blog-content">Nulla non lectus nunc. Sed tincidunt odio quis pulvinar iaculis. Aliquam sollicitudin lectus dui, imperdiet fermentum lorem lacinia vitae. Nunc vel lectus vitae nunc tincidunt porttitor. Nam dui nulla, consectetur sed viverra</div><div class="tx-meta"><span class="tx-author">By : <a href="http://localhost/tx-demos/i-amaze/author/demoadmin/">demoadmin</a></span><span class="tx-date"> | Mar 29, 2018</span></div></div></div></div><div class="tx-blog-item tx-post-col-4"><div class="tx-border-box"><div class="tx-blog-img"><a href="http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/babe-2972221_1920-1024x683.jpg" class="tx-colorbox"><img src="http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/babe-2972221_1920.jpg" alt="" class="blog-image"></a><span class="tx-post-comm"><span>0</span></span></div><div class="tx-post-content"><h3 class="tx-post-title"><a href="http://localhost/tx-demos/i-amaze/2018/03/29/donec-auctor-id-ligula-nec/">Donec Auctor Id Ligula Nec</a></h3><div class="tx-category"><a href="http://localhost/tx-demos/i-amaze/category/uncategorized/" rel="category tag">Uncategorized</a></div><div class="tx-blog-content">Donec auctor id ligula nec porta. Donec pulvinar risus sit amet venenatis gravida. Suspendisse dapibus augue vel lacus pharetra sodales. In porta felis tortor, ut malesuada lectus pulvinar sit amet. Vestibulum ante</div><div class="tx-meta"><span class="tx-author">By : <a href="http://localhost/tx-demos/i-amaze/author/demoadmin/">demoadmin</a></span><span class="tx-date"> | Mar 29, 2018</span></div></div></div></div><div class="tx-blog-item tx-post-col-4"><div class="tx-border-box"><div class="tx-blog-img"><a href="http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/animals-1867018-1024x684.jpg" class="tx-colorbox"><img src="http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/animals-1867018.jpg" alt="" class="blog-image"></a><span class="tx-post-comm"><span>1</span></span></div><div class="tx-post-content"><h3 class="tx-post-title"><a href="http://localhost/tx-demos/i-amaze/2017/05/09/hello-world/">Lorem Ipsum Dolor Sit Amet</a></h3><div class="tx-category"><a href="http://localhost/tx-demos/i-amaze/category/uncategorized/" rel="category tag">Uncategorized</a></div><div class="tx-blog-content">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ac nisi quis urna hendrerit molestie. Nam tempus velit non finibus pellentesque. Duis volutpat porttitor tortor sed tincidunt. Mauris condimentum turpis sit amet</div><div class="tx-meta"><span class="tx-author">By : <a href="http://localhost/tx-demos/i-amaze/author/demoadmin/">demoadmin</a></span><span class="tx-date"> | May 9, 2017</span></div></div></div></div></div>        	<div class="clear"></div>
+            <div class="tx-blog tx-post-row tx-masonry"><div class="tx-blog-item tx-post-col-4"><div class="tx-border-box"><div class="tx-blog-img"><a href="https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/blue-69762-1024x683.jpg" class="tx-colorbox"><img src="https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/blue-69762.jpg" alt="" class="blog-image"></a><span class="tx-post-comm"><span>0</span></span></div><div class="tx-post-content"><h3 class="tx-post-title"><a href="http://localhost/tx-demos/i-amaze/2018/03/29/sed-non-consequat-risus/">Sed Non Consequat Risus</a></h3><div class="tx-category"><a href="http://localhost/tx-demos/i-amaze/category/uncategorized/" rel="category tag">Uncategorized</a></div><div class="tx-blog-content">Sed non consequat risus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum lorem ligula, dignissim ut orci vel, pellentesque pellentesque nisi. Fusce quis porttitor ipsum. Curabitur pharetra</div><div class="tx-meta"><span class="tx-author">By : <a href="http://localhost/tx-demos/i-amaze/author/demoadmin/">demoadmin</a></span><span class="tx-date"> | Mar 29, 2018</span></div></div></div></div><div class="tx-blog-item tx-post-col-4"><div class="tx-border-box"><div class="tx-blog-img"><a href="https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/engagement-1718244_1920-1024x683.jpg" class="tx-colorbox"><img src="https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/engagement-1718244_1920.jpg" alt="" class="blog-image"></a><span class="tx-post-comm"><span>0</span></span></div><div class="tx-post-content"><h3 class="tx-post-title"><a href="http://localhost/tx-demos/i-amaze/2018/03/29/nulla-non-lectus-nunc-sed/">Nulla Non Lectus Nunc Sed</a></h3><div class="tx-category"><a href="http://localhost/tx-demos/i-amaze/category/uncategorized/" rel="category tag">Uncategorized</a></div><div class="tx-blog-content">Nulla non lectus nunc. Sed tincidunt odio quis pulvinar iaculis. Aliquam sollicitudin lectus dui, imperdiet fermentum lorem lacinia vitae. Nunc vel lectus vitae nunc tincidunt porttitor. Nam dui nulla, consectetur sed viverra</div><div class="tx-meta"><span class="tx-author">By : <a href="http://localhost/tx-demos/i-amaze/author/demoadmin/">demoadmin</a></span><span class="tx-date"> | Mar 29, 2018</span></div></div></div></div><div class="tx-blog-item tx-post-col-4"><div class="tx-border-box"><div class="tx-blog-img"><a href="https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/babe-2972221_1920-1024x683.jpg" class="tx-colorbox"><img src="https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/babe-2972221_1920.jpg" alt="" class="blog-image"></a><span class="tx-post-comm"><span>0</span></span></div><div class="tx-post-content"><h3 class="tx-post-title"><a href="http://localhost/tx-demos/i-amaze/2018/03/29/donec-auctor-id-ligula-nec/">Donec Auctor Id Ligula Nec</a></h3><div class="tx-category"><a href="http://localhost/tx-demos/i-amaze/category/uncategorized/" rel="category tag">Uncategorized</a></div><div class="tx-blog-content">Donec auctor id ligula nec porta. Donec pulvinar risus sit amet venenatis gravida. Suspendisse dapibus augue vel lacus pharetra sodales. In porta felis tortor, ut malesuada lectus pulvinar sit amet. Vestibulum ante</div><div class="tx-meta"><span class="tx-author">By : <a href="http://localhost/tx-demos/i-amaze/author/demoadmin/">demoadmin</a></span><span class="tx-date"> | Mar 29, 2018</span></div></div></div></div><div class="tx-blog-item tx-post-col-4"><div class="tx-border-box"><div class="tx-blog-img"><a href="https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/animals-1867018-1024x684.jpg" class="tx-colorbox"><img src="https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/animals-1867018.jpg" alt="" class="blog-image"></a><span class="tx-post-comm"><span>1</span></span></div><div class="tx-post-content"><h3 class="tx-post-title"><a href="http://localhost/tx-demos/i-amaze/2017/05/09/hello-world/">Lorem Ipsum Dolor Sit Amet</a></h3><div class="tx-category"><a href="http://localhost/tx-demos/i-amaze/category/uncategorized/" rel="category tag">Uncategorized</a></div><div class="tx-blog-content">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ac nisi quis urna hendrerit molestie. Nam tempus velit non finibus pellentesque. Duis volutpat porttitor tortor sed tincidunt. Mauris condimentum turpis sit amet</div><div class="tx-meta"><span class="tx-author">By : <a href="http://localhost/tx-demos/i-amaze/author/demoadmin/">demoadmin</a></span><span class="tx-date"> | May 9, 2017</span></div></div></div></div></div>        	<div class="clear"></div>
         </div>
         </div>
         </div>        
@@ -3481,7 +3481,7 @@
     
     <div class="parallax1_inner txo-section-inner">
         <div class="tx-row tx-fullwidthrow tx-fwidth" style="">
-    	        	<div class="tx-fw-inner parallax-container" style="background-image : url('http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/coffee-171653_1920.jpg');">	
+    	        	<div class="tx-fw-inner parallax-container" style="background-image : url('https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/coffee-171653_1920.jpg');">	
             <div class="tx-fw-overlay" style="background: transparent;" data-z-index="1" data-overlay="rgba(0,0,0,0.7)"> 
                 
                
@@ -3646,7 +3646,7 @@
                         <div class="custompage1-desc"><div class="tx-row txofied-row ">
 <div class="tx-column tx-column-size-1-3">
 <div class="tx-spacer clearfix" style="height: 24px"></div>
-<a href="http://templatesnext.org/ispirit/landing/"><img src="http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/responsive-3-300x279.png" alt="i-spirit WordPress Theme"></a><br>
+<a href="http://templatesnext.org/ispirit/landing/"><img src="https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/responsive-3-300x279.png" alt="i-spirit WordPress Theme"></a><br>
 </div>
 <div class="tx-column tx-column-size-2-3">
 <h2 style="font-weight: 500; margin-bottom: 16px; margin-top: 0px; font-size: 26px; text-align: left;">i-spirit, Crafted With Love And Passion</h2>
@@ -6848,7 +6848,7 @@ Cras porta elit id enim mattis, at sagittis ligula euismod. Interdum et malesuad
 		<content:encoded><![CDATA[[txo_row]
 [txo_column size="1/3"]
 [txo_spacer size="24"]
-<a href="http://templatesnext.org/ispirit/landing/"><img src="http://localhost/tx-demos/i-amaze/wp-content/uploads/2018/03/responsive-3-300x279.png" alt="i-spirit WordPress Theme" /></a>
+<a href="http://templatesnext.org/ispirit/landing/"><img src="https://raw.githubusercontent.com/the-king-of-jq-hills/i-amaze-demo/master/uploads/2018/03/responsive-3-300x279.png" alt="i-spirit WordPress Theme" /></a>
 [/txo_column]
 [txo_column size="2/3"]
 <h2 style="font-weight: 500; margin-bottom: 16px; margin-top: 0px; font-size: 26px; text-align: left;">i-spirit, Crafted With Love And Passion</h2>
